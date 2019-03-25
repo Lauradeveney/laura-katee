@@ -1,0 +1,3200 @@
+@font-face {
+    font-family: 'Effra_Trial_Lt';
+    font-style:normal;
+    font-weight:;
+    src: url('../fonts/Effra_Trial_Lt.ttf')
+}
+
+@font-face {
+    font-family: 'Effra_Trial_LtIt';
+    font-style:normal;
+    font-weight:100;
+    src: url('../fonts/Effra_Trial_LtIt.ttf')
+}
+
+@font-face {
+    font-family: 'Effra_Trial_Rg';
+    font-style:normal;
+    font-weight:100;
+    src: url('../fonts/Effra_Trial_Rg.ttf')
+}
+
+@font-face {
+    font-family: 'Effra_Trial_It';
+    font-style:normal;
+    font-weight:100;
+    src: url('../fonts/Effra_Trial_It.ttf')
+}
+
+@font-face {
+    font-family: 'Effra_Trial_Md';
+    font-style:normal;
+    font-weight:100;
+    src: url('../fonts/Effra_Trial_Md.ttf')
+}
+
+@font-face {
+    font-family: 'Effra_Trial_MdIt';
+    font-style:normal;
+    font-weight:100;
+    src: url('../fonts/Effra_Trial_MdIt.ttf')
+}
+
+@font-face {
+    font-family: 'Effra_Trial_BdIt';
+    font-style:normal;
+    font-weight:100;
+    src: url('../fonts/Effra_Trial_BdIt.ttf')
+}
+
+@font-face {
+    font-family: 'Effra_Trial_Bd';
+    font-style:normal;
+    font-weight:100;
+    src: url('../fonts/Effra_Trial_Bd.ttf')
+}
+
+@font-face {
+    font-family: 'Effra_Trial_HeIt';
+    font-style:normal;
+    font-weight:100;
+    src: url('../fonts/Effra_Trial_Bd.ttf')
+}
+
+@font-face {
+    font-family: 'Effra_Trial_He';
+    font-style:normal;
+    font-weight:100;
+    src: url('../fonts/Effra_Trial_Bd.ttf')
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a:link{
+    text-decoration: none;
+}
+
+h2 {
+     font-family: 'Effra_Trial_Lt';
+    font-size: 700px;
+    color: aliceblue;
+    
+    
+}
+
+body
+{
+    background-color: lightgray;
+}
+
+.bloombody
+{
+    background-color: lightgray;
+}
+.nav
+{
+    font-family: 'Effra_Trial_rg';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-left: 120px;
+    margin-top: 30px;
+}
+
+.nav:hover
+{
+    font-family: 'Effra_Trial_rg';
+    font-size: 20px;
+    font-weight: 300;
+    color: white;
+    text-decoration: none;
+   
+}
+.navback
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-left: 120px;
+    margin-top: 30px;
+}
+
+.navback:hover
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 20px;
+    font-weight: 300;
+    color: white;
+    text-decoration: none;
+   
+}
+
+
+.navindex
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-top: -30px;
+    margin-left: 15px;
+
+}
+
+.navindex:hover
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 20px;
+    font-weight: 300;
+    color: white;
+    text-decoration: none;
+    margin-top: -30px;
+    margin-left: 15px;
+
+}
+
+.navcontact
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-top: -47px;
+    margin-left: 35px; 
+ 
+}
+    
+.navcontact:hover
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 20px;
+    font-weight: 300;
+    color: white;
+    text-decoration: none;
+    margin-top: -47px;
+    margin-left: 35px; 
+ 
+}
+
+
+.bloomnav
+{
+    font-family: 'Effra_Trial_Md';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+.bloomnavindex
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-top: -30px;
+    margin-left: 15px;
+
+}
+
+.bloomnavindex:hover
+{
+    font-family: 'Effra_Trial_rg';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-top: -30px;
+    margin-left: 15px;
+
+}
+
+.bloomnavcontact
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-top: -47px;
+    margin-left: 35px; 
+ 
+}
+    
+.bloomnavcontact:hover
+{
+    font-family: 'Effra_Trial_rg';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-top: -47px;
+    margin-left: 35px; 
+ 
+}
+
+.laurakate
+{
+    font-family: 'Effra_Trial_Lt';
+    font-size: 60px;
+    line-height: 65px;
+    font-weight: 300;
+    color: aliceblue;
+    text-decoration: none;
+    margin-top: 70px;
+/*    margin-left: 700px;*/
+    margin-bottom: 30px;
+    text-decoration-line: none;
+    text-decoration-line: none;
+    padding-left: 53px;
+}
+
+.laurakate:hover
+{
+    font-family: 'Effra_Trial_Md';
+    font-size: 60px;
+    font-weight: 300;
+    line-height: 65px;
+    color: aliceblue;
+    text-decoration: none;
+     margin-bottom: 30px;
+    margin-top: 70px;
+/*    margin-left: 700px;*/
+    text-decoration-line: none;
+}
+
+.storyteller
+
+{
+    font-family: 'Effra_Trial_Ltit';
+    font-size: 22px;
+    font-weight: 300;
+    color: aliceblue;
+    text-decoration: none;
+    margin-top: -90px;
+    
+    text-decoration-line: none;
+    padding-left: 53px;
+}
+
+
+
+
+
+
+.hmpgtype {
+    
+  margin-top: -80px;
+    padding-left: 30px;
+
+}
+
+
+
+
+
+.spacing{
+    margin-top: 200px;
+}
+
+
+
+
+.flourishes{
+    background-color:black;
+    z-index:50;
+    position: relative;
+}
+
+
+.lookleft{
+    /* z-index:50;*/
+     position:absolute;
+    font-family: 'Effra_Trial_Lt';
+    font-size: 80px;
+    font-weight: 300;
+    color: aliceblue;
+    text-decoration: none;
+    text-decoration-line: none;
+    text-decoration-line: none;
+    
+}
+
+.placeholder{
+    /*z-index:50;*/
+    position:inherit;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.capitala {
+     font-family: 'Effra_Trial_bd';
+    font-size: 64px;
+    color: black;
+    margin-left:10px;
+     z-index: -100;
+    margin-bottom: -95px;
+    
+
+}
+.capitaldot {
+     font-family: 'Effra_Trial_lt';
+    font-size: 40px;
+    color: black;
+    margin-left:10px;
+     z-index: -100;
+    margin-bottom: -20px;
+    
+    
+
+}
+
+
+.spacee {
+    padding-top: 130px;
+}
+
+.typeface
+{
+    font-family: 'Effra_Trial_Lt';
+    font-size: 64px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+/*
+    margin-top: 30px;
+    margin-left: 55px;
+  
+*/
+    text-decoration-line: none;
+    text-decoration-line: none;
+    z-index: -100;
+}
+typefacea
+{
+    font-family: 'Effra_Trial_Lt';
+    font-size: 80px;
+    font-weight: 300;
+    color: blue;
+    text-decoration: none;
+/*
+    margin-top: 30px;
+    margin-left: 55px;
+  
+*/
+    text-decoration-line: none;
+    text-decoration-line: none;
+    z-index: -100;
+}
+
+.typeface:hover
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 64px;
+    font-weight: 300;
+    color: peachpuff;
+    text-decoration: none;
+/*
+    margin-top: 30px;
+    margin-left: 51px;
+*/
+    text-decoration-line: none;
+}
+
+.typefacesml
+{
+    font-family: 'Effra_Trial_Lt';
+    font-size: 20px;
+    font-weight: 300;
+    color: peachpuff;
+    text-decoration: none;
+    margin-top: -17px;
+    margin-left: 218px;
+    text-decoration-line: none;
+}
+
+
+.typefacesmli
+{
+    font-family:'Effra_Trial_ltIt';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+    
+}
+
+
+
+.world
+{
+    font-family: 'Effra_Trial_Lt';
+    font-size: 64px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+   
+}
+.world:hover
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 64px;
+    font-weight: 300;
+    color: white;
+    text-decoration: none;
+    
+}
+
+
+
+.worldsmli
+{
+    font-family: 'Effra_Trial_Ltit';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+}
+
+
+.gaps {
+    margin-top:70px;
+}
+.bb {
+    
+    width: 12%;
+  height: auto;
+    margin-top: -27px;
+}
+
+
+
+.blooming
+{
+    font-family: 'Effra_Trial_Lt';
+    font-size: 64px;
+    font-weight: 300;
+    color: aliceblue;
+    text-decoration: none;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.blooming:hover
+{
+    font-family: 'Effra_Trial_md';
+    font-size: 64px;
+    font-weight: 300;
+    color: aliceblue;
+    text-decoration: none;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.blossoms{
+    position:relative;
+    opacity: 0;
+    top:10%;
+    left:10%;
+    transform: translate(10,50)
+}
+
+.blossoms:hover{
+    opacity: 100;
+    text-decoration: none;
+}
+
+.bloomingsml
+{
+    font-family: 'Effra_Trial_Lt';
+    font-size: 20px;
+    font-weight: 300;
+    color: aliceblue;
+    text-decoration: none;
+    margin-top: -16px;
+    text-decoration-line: none;
+    margin-left: 218px;
+}
+
+.bloomingsmli
+{
+    font-family: 'Effra_Trial_Ltit';
+    font-size: 20px;
+    font-weight: 300;
+    color: aliceblue;
+    text-decoration: none;
+    margin-top: -35px;
+    margin-left: 218px;
+    text-decoration-line: none;
+}
+
+.tt {
+    
+    width: 12%;
+  height: auto;
+    margin-top: -27px;
+}
+
+.mind
+{
+    font-family: 'Effra_Trial_Lt';
+    font-size: 80px;
+    font-weight: 300;
+    color: aliceblue;
+    text-decoration: none;
+   
+    margin-left: 50px;
+}
+
+.mind:hover
+{
+    font-family: 'Effra_Trial_md';
+    font-size: 80px;
+    font-weight: 300;
+    color: aliceblue;
+    text-decoration: none;
+    
+    margin-left: 50px;
+}
+
+.mindsml
+{
+    font-family: 'Effra_Trial_Lt';
+    font-size: 20px;
+    font-weight: 300;
+    color: aliceblue;
+    text-decoration: none;
+    margin-top: -17px;
+    margin-left: 218px;
+    text-decoration-line: none;
+}
+
+
+.mindsmli
+{
+    font-family: 'Effra_Trial_Ltit';
+    font-size: 20px;
+    font-weight: 300;
+    color: aliceblue;
+    text-decoration: none;
+    margin-top: -40px;
+    margin-left: 218px;
+    text-decoration-line: none;
+}
+
+
+.typeface:hover
+{
+    color:aliceblue;
+    text-decoration: none;
+    
+}
+
+
+.nav:hover
+{
+    color:aliceblue;
+    text-decoration: none;
+}
+
+
+
+/*LAURA KATE */
+
+.lauraphoto img {
+  display: block;
+  width: 20%;
+  height: auto;
+  position: fixed;
+  z-index: 1;
+  opacity: 0;
+  pointer-events: none;
+}
+
+
+.lauraphoto:hover img {
+  display: block;
+  width: 30%;
+  height: auto;
+  position:absolute;
+  z-index: -100;
+  opacity: 1;
+  pointer-events: none;
+  align-content: center;
+  margin-left: 800px;
+  margin-top: 0px;
+}
+
+
+
+    .typeface
+{
+    font-family: 'Effra_Trial_Lt';
+    font-size: 64px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+
+    text-decoration-line: none;
+    text-decoration-line: none;
+    z-index: -100;
+    
+}
+
+
+
+.description1
+
+{
+    font-family: 'Effra_Trial_Lt';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+    margin-left: 0px;
+   
+    
+}
+
+
+
+.name1
+
+{
+    font-family: 'Effra_Trial_md';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+   
+    text-decoration-line: none;
+}
+
+.visualc1
+
+{
+    font-family: 'Effra_Trial_md';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+}
+
+.education
+
+{
+    font-family: 'Effra_Trial_md';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+}
+
+
+
+
+
+
+
+
+.typefacelaura
+{
+    font-family: 'Effra_Trial_Lt';
+    font-size: 64px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+/*
+    margin-top: 30px;
+    margin-left: 55px;
+  
+*/
+    text-decoration-line: none;
+    text-decoration-line: none;
+    z-index: 0;
+    margin-left: -350px;
+   
+}
+
+
+.typefacelaura:hover
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 64px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+/*
+    margin-top: 30px;
+    margin-left: 51px;
+*/
+    text-decoration-line: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.blossomsss img {
+  display: block;
+  width: 55%;
+  height: auto;
+  position: fixed;
+  z-index: 1;
+  opacity: 0;
+  pointer-events: none;
+}
+
+
+.blossomsss:hover img {
+  display: block;
+  width: 45%;
+  height: auto;
+  position:absolute;
+  z-index: -100;
+  opacity: 1;
+  pointer-events: none;
+  align-content: center;
+  margin-left: 400px;
+  margin-top: -90px;
+}
+
+
+
+
+
+
+.b img {
+  display: block;
+  width: 55%;
+  height: auto;
+  position: fixed;
+  z-index: 1;
+  opacity: 0;
+  pointer-events: none;
+}
+
+
+.b:hover img {
+  display: block;
+  width: 45%;
+  height: auto;
+  position:absolute;
+  z-index: -100;
+  opacity: 1;
+  pointer-events: none;
+  align-content: center;
+  margin-left: 400px;
+  margin-top: -350px;
+}
+
+.M img {
+  display: block;
+  width: 55%;
+  height: auto;
+  position: fixed;
+  z-index: 1;
+  opacity: 0;
+  pointer-events: none;
+}
+
+
+.M:hover img {
+  display: block;
+  width: 80%;
+  height: auto;
+  position:absolute;
+  z-index: -100;
+  opacity: 1;
+  pointer-events: none;
+  align-content: center;
+  margin-left: 200px;
+  margin-top: -350px;
+}
+
+
+.lphoto img {
+  display: block;
+  width: 55%;
+  height: auto;
+  position: fixed;
+  z-index: 1;
+  opacity: 0;
+  pointer-events: none;
+}
+
+
+.lphoto:hover img {
+  display: block;
+  width: 55%;
+  height: auto;
+  position:absolute;
+  z-index: -100;
+  opacity: 1;
+  pointer-events: none;
+  align-content: center;
+  margin-left: -190px;
+  margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Dolly HTML*/
+
+
+.dollyimg{
+    height: 110%;
+    width: 110%;
+    margin-left: -120px;
+    margin-top: -100px;
+}
+
+
+.dollyflourish
+{
+    font-family: 'Effra_Trial_md';
+    font-size: 64px;
+    line-height: 72px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+    margin-top: 0px;
+}
+
+.dollynoun
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+    margin-top: 5px;
+    
+}
+
+.prou
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+    
+}
+
+.prou:hover
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 20px;
+    font-weight: 300;
+    color: white;
+    text-decoration: none;
+    text-decoration-line: none;
+    
+}
+.noun
+{
+    font-family: 'Effra_Trial_ltit';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+    
+}
+
+.dollyfloursm{
+    font-family: 'Effra_Trial_lt';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+    margin-top: 20px;
+    
+}
+
+.underware{
+    font-family: 'Effra_Trial_md';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+    
+}
+
+.showhim:hover .showme {
+    font-family: 'Effra_Trial_lt';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+  display: block;
+}
+
+.showhim {
+    font-family: 'Effra_Trial_md';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+    display: block;
+}
+
+
+.showhim:hover
+{
+    font-family: 'Effra_Trial_md';
+    font-size: 20px;
+    font-weight: 300;
+    color: white;
+    text-decoration: none;
+    text-decoration-line: none;
+    
+}
+
+
+.showme {
+    
+    display: none;
+     margin-left: 700px;
+}
+
+
+
+
+
+.quotedol{
+    font-family: 'Effra_Trial_ltit';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+    
+}
+
+
+
+.dolly1 {
+  width: auto ;
+  max-width: 33% ;
+  height: auto ;
+}
+
+
+.dollytwo {
+  width: auto ;
+  max-width: 33% ;
+  height: auto ;
+    margin-left: 10px;
+}
+ 
+
+
+.cover{
+    font-family: 'Effra_Trial_lt';
+    font-size: 16px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+    margin-top: 15px;
+    
+}
+
+
+.dollythree {
+  width: auto ;
+  max-width: 67% ;
+  height: auto ;
+padding-top: 15px;
+ 
+}
+
+.lauracontactp {
+    z-index: auto;
+  width: auto ;
+  max-width: 24% ;
+  height: auto ;
+    padding-top: -400px;
+transform: translate(700px, 450px)
+}
+
+
+.typespace {
+    padding: 20px;
+}
+
+
+.typebits{
+    font-family: 'Effra_Trial_md';
+    font-size: 16px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+    margin-top: 20px;
+    
+}
+
+.dollypro{
+    font-family: 'Effra_Trial_lt';
+    font-size: 16px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+    margin-top: 20px;
+    
+}
+
+.typespacec {
+    padding: 10px;
+}
+
+
+.darkp{
+    margin-left: 30px;
+}
+
+.black{
+    margin-left: 30px;
+}
+
+.f8text{
+    font-family: 'Effra_Trial_lt';
+    font-size: 16px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+    margin-top: 0px;
+    
+}
+
+.f82{
+    font-family: 'Effra_Trial_lt';
+    font-size: 16px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+    margin-left: 50px;
+    
+}
+
+.f83{
+    font-family: 'Effra_Trial_lt';
+    font-size: 16px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+    margin-left: 55px;
+    
+}
+
+
+
+
+h1{
+    font-family: 'Effra_Trial_bd';
+    color: aliceblue;
+    margin-left: 200px;
+    font-size: 56px;
+}
+
+
+
+p{
+    font-family: 'Effra_Trial_lt';
+    color: aliceblue;
+    margin-left: 200px;
+    font-size: 20px;
+}
+
+
+.boldsm
+
+{
+    font-family: 'Effra_Trial_md';
+    font-size: 22px;
+    font-weight: 300;
+    color: aliceblue;
+    text-decoration: none;
+    margin-top: -10px;
+    margin-left:;
+    text-decoration-line: none;
+}
+
+.italicsm
+
+{
+    font-family: 'Effra_Trial_it';
+    font-size: 22px;
+    font-weight: 300;
+    color: aliceblue;
+    text-decoration: none;
+    margin-top: -10px;
+    margin-left:;
+    text-decoration-line: none;
+}
+
+
+.break{
+    margin-top: 40px; 
+}
+
+
+
+
+
+
+
+
+.flowerr{
+    position:relative;
+    opacity: 0;
+    top:10%;
+    left:10%;
+    transform: translate(10,50);
+    margin-bottom: 100px;
+    margin-top: -100px; 
+    position: absolute;
+}
+
+
+.flowerr:hover{
+     position:relative;
+    opacity: 100;
+    top:10%;
+    left:10%;
+    transform: translate(10,50);
+    margin-bottom: 100px;
+    margin-top: -100px; 
+    position: absolute;
+}
+   
+    
+
+
+
+
+.bloomtext
+{
+    font-family: 'Effra_Trial_Lt';
+    font-size: 80px;
+    font-weight: 300;
+    color: aliceblue;
+    text-decoration: none;
+    margin-left: 100px;
+    position: absolute;
+}
+
+.bloomtext:hover
+{
+    font-family: 'Effra_Trial_md';
+    font-size: 80px;
+    font-weight: 300;
+    color: aliceblue;
+    text-decoration: none;
+    margin-left: 100px;
+    position: absolute;
+}
+
+.flower {
+    background-color: black
+}
+
+
+
+.bloompage {
+    background-color: ;
+}
+
+
+.italic {
+    font-family: 'Effra_Trial_ltit';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+    margin-top: 20px;
+    
+}
+
+}
+
+/*Maldives css*/
+
+
+
+.maltype {
+    height: auto;
+    width: 570px;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+
+
+.maln{
+    height: auto;
+    width: 90px;
+    margin-top: -590px;
+    margin-left: 205px;
+
+}
+.ftype {
+    height: auto;
+    width: 570px;
+    margin-left: 45px;
+    margin-top: 20px;
+}
+
+.test {
+    font-family: 'Effra_Trial_Lt';
+    font-size: 20px;
+    margin-top: -40px;
+}
+
+
+
+
+.movie {
+    z-index: auto;
+    height: 800px;
+    width: 965px; 
+    padding-bottom: -400px;
+    margin-bottom: -200px;
+    margin-top: 50px;
+/*
+    margin-left: 235px;
+    padding-top: 60px;
+*/
+ 
+    
+}
+
+.space{
+    margin-top: 200px;
+}
+/*BEGINNING OG MAGNIFY GLASS*/
+/* Created by Rohan Hapani */
+*
+		{
+			margin: 0;
+			padding: 0;
+		}
+		.zoom-area
+		{
+			width: 100%;
+			margin: 50px auto;
+			position: relative;
+			cursor: none
+		}
+		
+		.large
+		{
+			width: 100px;
+			height: 100px;
+			position: absolute;
+			border-radius: 100%;
+		
+			 for box shadow for glass effect 
+			box-shadow: 0 0 0 7px rgba(255, 255, 255, 0.85), 
+			0 0 7px 7px rgba(0, 0, 0, 0.25), 
+			inset 0 0 40px 2px rgba(0, 0, 0, 0.25);
+			
+			
+		}
+		.small
+		{
+			display: block;
+            height: 130%;
+            width: 130%;
+            background-size: contain;
+            margin-left: -1000px;
+            padding-left: 140px;
+            margin-top: -50px;
+           padding-top: 50px;
+		}
+
+.smallbloom
+		{
+			display: block;
+            height: 100%;
+            width: 100%;
+            margin-left: -150px;
+            margin-top: -50px;
+           
+		}
+        
+
+
+/*
+
+BLOOM CSS
+*/
+
+
+
+.bbb {
+    
+    width: 23%;
+  height: auto;
+    margin-top: -27px;
+    margin-left: -160px;
+}
+
+
+.ser1 {
+
+ 
+}
+    
+
+
+.ser2 
+{
+ 
+    
+}
+
+.ser3 {
+
+    
+  
+}
+
+   .dollythreebloom {
+  width: auto ;
+  max-width: 67% ;
+  height: auto ;
+/*
+padding-top: 15px;
+       margin-left: 100px;
+*/
+ 
+}
+.gif2 {
+    
+    margin-left: 600px;
+}
+
+
+
+
+
+.spaceb {
+    margin-top: 100px;
+}
+
+
+
+
+
+/*END OF MAGNIFY GLASS*/
+
+
+/*BEGINNING OG MAGNIFY GLASS*/
+/* Created by Rohan Hapani */
+*
+		{
+			margin: 0;
+			padding: 0;
+		}
+		.zoom-area
+		{
+			width: 100%;
+			margin: 50px auto;
+			position: relative;
+			cursor: none
+		}
+		
+		.large
+		{
+			width: 100px;
+			height: 100px;
+			position: absolute;
+			border-radius: 100%;
+		
+			 for box shadow for glass effect 
+			box-shadow: 0 0 0 7px rgba(255, 255, 255, 0.85), 
+			0 0 7px 7px rgba(0, 0, 0, 0.25), 
+			inset 0 0 40px 2px rgba(0, 0, 0, 0.25);
+			
+			
+		}
+		.small
+		{
+			display: block;
+            height: 100%;
+            width: 100%;
+            margin-left: -60px;
+            margin-top: -50px;
+           
+		}
+        
+    
+  .number086
+{
+    font-family: 'Effra_Trial_rg';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    
+}
+
+.number086:hover
+{
+    font-family: 'Effra_Trial_rg';
+    font-size: 20px;
+    font-weight: 300;
+    color: white;
+    text-decoration: none;
+   
+}
+
+.email
+{
+    font-family: 'Effra_Trial_rg';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    
+}
+
+.email:hover
+{
+    font-family: 'Effra_Trial_rg';
+    font-size: 20px;
+    font-weight: 300;
+    color: white;
+    text-decoration: none;
+   
+}
+
+
+
+.footerinfo{
+    margin-left: 20px;
+    font-family: 'Effra_Trial_rg';
+    font-size: 20px;
+    font-weight: 300;
+    color: white;
+    text-decoration: none;
+    margin-left: 220px;
+    
+    }   
+
+.linked
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-top: -45px;
+    
+}
+
+.linked:hover
+{
+     font-family: 'Effra_Trial_lt';
+     
+    font-size: 20px;
+    font-weight: 300;
+    color: white;
+    text-decoration: none;
+    margin-top: -45px; 
+}
+
+.behance
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-top: -45px;
+    
+}
+
+.behance:hover
+{
+     font-family: 'Effra_Trial_lt';
+    font-size: 20px;
+    font-weight: 300;
+    color: white;
+    text-decoration: none;
+    margin-top: -45px; 
+}
+
+.behance
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-top: -45px;
+    
+}
+.folio
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-top: -45px;
+    
+    
+}
+
+
+.folio:hover
+{
+     font-family: 'Effra_Trial_lt';
+    font-size: 20px;
+    font-weight: 300;
+    color: white;
+    text-decoration: none;
+    margin-top: -45px; 
+}
+       
+       .footerinfob{
+    margin-left: 20px;
+    font-family: 'Effra_Trial_lt';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-left: 220px;
+    
+    }   
+
+.linkedb
+{
+    font-family: 'Effra_Trial_rg';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-top: -45px;
+    
+}
+
+.linkedb:hover
+{
+     font-family: 'Effra_Trial_md';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-top: -45px; 
+}
+
+.behanceb
+{
+    font-family: 'Effra_Trial_rg';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-top: -45px;
+    
+}
+
+.behanceb:hover
+{
+     font-family: 'Effra_Trial_md';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-top: -45px; 
+}
+
+.behanceb
+{
+    font-family: 'Effra_Trial_rg';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-top: -45px;
+    
+}
+.foliob
+{
+    font-family: 'Effra_Trial_rg';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-top: -45px;
+    
+    
+}
+
+
+.foliob:hover
+{
+     font-family: 'Effra_Trial_md';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-top: -45px; 
+}
+       
+.spaceforfooter {
+    margin-top: 50px;
+}  
+
+
+
+.navnext
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-top: -50px;
+    margin-left: 430px;
+   
+  
+    
+
+}
+
+.navnext:hover
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 20px;
+    font-weight: 300;
+    color: white;
+    text-decoration: none;
+    
+}
+
+
+.navbb
+{
+    font-family: 'Effra_Trial_rg';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+.navbb:hover
+{
+    font-family: 'Effra_Trial_md';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+.navnextb
+{
+    font-family: 'Effra_Trial_rg';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-top: -28px;
+    
+
+}
+
+.navnextb:hover
+{
+    font-family: 'Effra_Trial_md';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    
+}
+
+
+/*END OF MAGNIFY GLASS*/
+
+  
+ 
+ 
+ 
+ 
+@media screen and (min-width:1200px) {
+    
+    
+    .typefacem{
+        display: none;
+    }   
+   
+    .aam{
+        display: none;
+    }
+    
+    .mobtype{
+        display: none;
+    }
+    
+    .mobtypef{
+        display: none;
+    }
+    
+    .aroundmob{
+        display: none;
+    }
+    
+    .amob{
+        display: none;
+    }
+    
+    .amob2{
+        display: none;
+    }
+    .bbm{
+        display: none;
+    }
+    .bloomingm{
+        display: none;
+    }
+    
+    .ttm{
+        display: none;
+    }
+    
+    .them{
+        display: none;
+    }
+    .mdolly{
+        display: none;
+    }
+    
+    .dollyt{
+        display: none;
+    }
+    
+    
+    .dollyt2{
+        display: none;
+    }
+    
+    .mdolly2{
+        display: none;
+    }
+   
+    
+    
+    
+}
+
+
+@media screen and (max-width: 992px) {
+    
+    .nav
+{
+    font-family: 'Effra_Trial_rg';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-left: 90px;
+    margin-top: 30px;
+}
+
+    .navback
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-left: 90px;
+    margin-top: 30px;
+}
+    
+    
+.nav:hover
+{
+    font-family: 'Effra_Trial_rg';
+    font-size: 20px;
+    font-weight: 300;
+    color: white;
+    text-decoration: none;
+   
+}
+    .typeface
+{
+    font-family: 'Effra_Trial_Lt';
+    font-size: 50px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+/*
+    margin-top: 30px;
+    margin-left: 55px;
+  
+*/
+    text-decoration-line: none;
+    text-decoration-line: none;
+    z-index: -100;
+}
+typefacea
+{
+    font-family: 'Effra_Trial_Lt';
+    font-size: 80px;
+    font-weight: 300;
+    color: blue;
+    text-decoration: none;
+/*
+    margin-top: 30px;
+    margin-left: 55px;
+  
+*/
+    text-decoration-line: none;
+    text-decoration-line: none;
+    z-index: -100;
+}
+
+.typeface:hover
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 50px;
+    font-weight: 300;
+    color: white;
+    text-decoration: none;
+/*
+    margin-top: 30px;
+    margin-left: 51px;
+*/
+    text-decoration-line: none;
+}
+
+.typefacesml
+{
+    font-family: 'Effra_Trial_Lt';
+    font-size: 16px;
+    font-weight: 300;
+    color: peachpuff;
+    text-decoration: none;
+    margin-top: -17px;
+    margin-left: 218px;
+    text-decoration-line: none;
+}
+
+
+.typefacesmli
+{
+    font-family:'Effra_Trial_ltIt';
+    font-size: 22px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+    
+}
+
+.world
+{
+    font-family: 'Effra_Trial_Lt';
+    font-size: 50px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+   
+}
+.world:hover
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 50px;
+    font-weight: 300;
+    color: white;
+    text-decoration: none;
+    
+}
+
+
+
+.worldsmli
+{
+    font-family: 'Effra_Trial_Ltit';
+    font-size: 16px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+}
+
+    
+.capitala {
+     font-family: 'Effra_Trial_bd';
+    font-size: 50px;
+    color: black;
+    margin-left:10px;
+     z-index: -100;
+    margin-bottom: -75px;
+    
+
+}  
+    
+    .gaps {
+    margin-top:40px;
+}
+    
+    .capitaldot {
+     font-family: 'Effra_Trial_lt';
+    font-size: 28px;
+    color: black;
+    margin-left:10px;
+     z-index: -100;
+    margin-bottom: -20px;
+    
+    
+
+}
+    .movie {
+    z-index: auto;
+    height: 800px;
+    width: 965px; 
+    margin-top: 40px;
+    padding-bottom: -200px;
+    margin-bottom: -400px;
+}
+    
+    .dollyflourish
+{
+    font-family: 'Effra_Trial_md';
+    font-size: 50px;
+    line-height: 60px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+    padding-top: -30px;
+}
+
+.dollynoun
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 16px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+    margin-top: 5px;
+    
+}
+
+.prou
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 16px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+    
+}
+
+.prou:hover
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 16px;
+    font-weight: 300;
+    color: white;
+    text-decoration: none;
+    text-decoration-line: none;
+    
+}
+.noun
+{
+    font-family: 'Effra_Trial_ltit';
+    font-size: 16px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+    
+}
+
+.dollyfloursm{
+    font-family: 'Effra_Trial_lt';
+    font-size: 16px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+    margin-top: 20px;
+    
+}
+
+.underware{
+    font-family: 'Effra_Trial_md';
+    font-size: 16px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+    
+}
+
+.underware:hover
+{
+    font-family: 'Effra_Trial_md';
+    font-size: 16px;
+    font-weight: 300;
+    color: white;
+    text-decoration: none;
+    text-decoration-line: none;
+    
+}
+
+.quotedol{
+    font-family: 'Effra_Trial_ltit';
+    font-size: 16px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+    
+}
+.dolly1 {
+  width: auto ;
+  max-width: 40% ;
+  height: auto ;
+    align-items: center;
+}
+
+
+.dollytwo {
+  width: auto ;
+  max-width: 40% ;
+  height: auto ;
+align-items: center; 
+    }
+
+
+
+}
+
+
+
+@media(max-width:760px) {
+    
+ .ser1 {
+padding-left: 20px;
+ 
+}
+    
+
+
+.ser2 
+{
+transform: translate(-15px); 
+    margin-top: 20px;
+ 
+    
+}
+
+.ser3 {
+
+    transform: translate(-15px);
+    margin-top: 20px;
+  
+}
+    .navnext
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-left: 70px;
+    
+   
+  
+    
+
+}
+
+.navnext:hover
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 20px;
+    font-weight: 300;
+    color: white;
+    text-decoration: none;
+    
+}
+
+    
+    .number086
+{
+    font-family: 'Effra_Trial_rg';
+    font-size: 16px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-left: -33px;
+    
+}
+
+.number086:hover
+{
+    font-family: 'Effra_Trial_rg';
+    font-size: 16px;
+    font-weight: 300;
+    color: white;
+    text-decoration: none;
+    margin-left: -33px;
+    
+   
+}
+
+    .email
+{
+    font-family: 'Effra_Trial_rg';
+    font-size: 16px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-left: -33px;
+    
+}
+
+.email:hover
+{
+    font-family: 'Effra_Trial_rg';
+    font-size: 16px;
+    font-weight: 300;
+    color: white;
+    text-decoration: none;
+    margin-left: -33px;
+    
+   
+}
+    
+    
+    
+    .dollythree {
+  width: auto ;
+  max-width: 80% ;
+  height: auto ;
+     margin-left: 40px;
+     padding-top: 20px;
+     
+}
+    
+        .dollythreebloom {
+  width: auto ;
+  max-width: 80% ;
+  height: auto ;
+     margin-left: 40px;
+            
+  
+     
+}
+
+
+    
+    .cover{
+   display: none;
+    
+} 
+    
+    .movie {
+    z-index: auto;
+    height: 800px;
+    width: 965px; 
+    margin-top: 40px;
+    padding-bottom: -600px;
+    margin-bottom: -630px;
+  
+
+}
+    .dolly1 {
+  width: auto ;
+  max-width: 80% ;
+  height: auto ;
+     margin-left: 50px;
+}
+
+
+.dollytwo {
+  width: auto ;
+  max-width: 80% ;
+  height: auto ;
+      margin-left: 50px;
+    padding-top: 20px;
+}
+    
+    
+    .dollyflourish
+{
+    font-family: 'Effra_Trial_md';
+    font-size: 36px;
+    line-height: 42px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+    padding-top: -800px;
+    
+}
+
+    
+
+
+
+
+.dollynoun
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 16px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+    margin-top: 5px;
+    
+}
+
+.prou
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 16px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+    
+}
+
+.prou:hover
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 16px;
+    font-weight: 300;
+    color: white;
+    text-decoration: none;
+    text-decoration-line: none;
+    
+}
+.noun
+{
+    font-family: 'Effra_Trial_ltit';
+    font-size: 16px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+    
+}
+
+.dollyfloursm{
+    font-family: 'Effra_Trial_lt';
+    font-size: 16px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+    margin-top: 20px;
+    
+}
+
+.underware{
+    font-family: 'Effra_Trial_md';
+    font-size: 16px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+    
+}
+
+.underware:hover
+{
+    font-family: 'Effra_Trial_md';
+    font-size: 16px;
+    font-weight: 300;
+    color: white;
+    text-decoration: none;
+    text-decoration-line: none;
+    
+}
+
+.quotedol{
+    font-family: 'Effra_Trial_ltit';
+    font-size: 16px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+    
+}
+
+
+    .typefacem{
+    font-family: 'Effra_Trial_Lt';
+    font-size:40px;
+    line-height: 45px;
+    font-weight: 300;
+    color: aliceblue;
+    text-decoration: none;
+    margin-top: -100px;
+    margin-left: 20px;
+    text-decoration-line: none;
+    text-decoration-line: none;
+    z-index: -100;
+        
+        
+    }
+    
+    
+.aam {
+    margin-top: -100px;
+    width: 25%;
+  height: auto;
+    margin-top: -250px;
+}
+    
+    
+ 
+    
+    
+    
+  .nav
+{
+    font-family: 'Effra_Trial_rg';
+    font-size: 16px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.nav:hover
+{
+    font-family: 'Effra_Trial_rg';
+    font-size: 16px;
+    font-weight: 300;
+    color: white;
+    text-decoration: none;
+   
+}
+
+.navindex
+{
+    display: none;
+
+}
+
+.navindex:hover
+{
+    display: none;
+
+}
+
+.navcontact
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 16px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-top: -30px;
+    margin-left: 290px; 
+ 
+}
+    
+.navcontact:hover
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 16px;
+    font-weight: 300;
+    text-decoration: none;
+    margin-left: 290px; 
+    margin-top: -30px;
+    color: black;
+ 
+}
+
+
+.bloomnav
+{
+    font-family: 'Effra_Trial_Md';
+    font-size: 16px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+.bloomnavindex
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-top: -30px;
+    margin-left: 15px;
+
+}
+
+.bloomnavindex:hover
+{
+    font-family: 'Effra_Trial_rg';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-top: -30px;
+    margin-left: 15px;
+
+}
+
+.bloomnavcontact
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-top: -47px;
+    margin-left: 35px; 
+ 
+}
+    
+.bloomnavcontact:hover
+{
+    font-family: 'Effra_Trial_rg';
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-top: -47px;
+    margin-left: 35px; 
+ 
+}
+  
+    
+    
+    
+    
+    .mobtype{
+        font-size: 16px;
+        margin-left: 30px;
+        margin-top: -12px;
+        
+    } 
+    
+    .mobtypef{
+        font-size: 16px;
+        margin-left: 30px;
+        margin-top: -18px;
+        
+    } 
+    
+    
+    
+    .aroundmob{
+    font-family: 'Effra_Trial_Lt';
+    font-size:40px;
+    line-height: 45px;
+    font-weight: 300;
+    color: aliceblue;
+    text-decoration: none;
+    margin-top: 0px;
+    margin-left: 20px;
+    text-decoration-line: none;
+    text-decoration-line: none;
+    z-index: -100;
+        
+        
+    }
+    
+    
+     .amob{
+        font-size: 16px;
+        margin-left: 30px;
+        margin-top: -12px;
+        
+    } 
+    
+    .amob2{
+        font-size: 16px;
+        margin-left: 30px;
+        margin-top: -18px;
+        
+    }  
+    
+    .bbm {
+    
+    width: 25%;
+  height: auto;
+    margin-top: 20px;
+}
+    
+    .bloomingm{
+    font-family: 'Effra_Trial_Lt';
+    font-size:40px;
+    line-height: 45px;
+    font-weight: 300;
+    color: aliceblue;
+    text-decoration: none;
+    margin-top: 0px;
+    margin-left: 20px;
+    text-decoration-line: none;
+    text-decoration-line: none;
+    z-index: -100;
+        
+        
+    }
+    
+    
+     .amob{
+        font-size: 16px;
+        margin-left: 30px;
+        margin-top: -12px;
+        
+    } 
+    
+    .amob2{
+        font-size: 16px;
+        margin-left: 30px;
+        margin-top: -18px;
+        
+    }  
+    
+    .ttm {
+    
+    width: 25%;
+  height: auto;
+    margin-top: 20px;
+}
+    
+    .them{
+    font-family: 'Effra_Trial_Lt';
+    font-size:40px;
+    line-height: 45px;
+    font-weight: 300;
+    color: aliceblue;
+    text-decoration: none;
+    margin-top: 0px;
+    margin-left: 20px;
+    text-decoration-line: none;
+    text-decoration-line: none;
+    z-index: -100;
+        
+        
+    }
+    
+    
+     .amob{
+        font-size: 16px;
+        margin-left: 30px;
+        margin-top: -12px;
+        
+    } 
+    
+    .amob2{
+        font-size: 16px;
+        margin-left: 30px;
+        margin-top: -18px;
+        
+    }  
+    
+    
+ 
+  
+     .footerinfo{
+    
+    margin-left: 16px; font-family: 'Effra_Trial_rg';
+    font-size: 20px;
+    font-weight: 300;
+    color: white;
+    text-decoration: none;
+    
+    
+    }   
+
+.linked
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 16px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-top: -10px;
+    margin-left: 15px;
+    
+    
+}
+
+.linked:hover
+{
+     font-family: 'Effra_Trial_lt';
+    font-size: 16px;
+    font-weight: 300;
+    color: white;
+    text-decoration: none;
+    margin-top: -10px; 
+    margin-left: 15px;
+    
+}
+
+.behance
+{
+    margin-top: -40px;
+    margin-left: 140px;
+    font-family: 'Effra_Trial_lt';
+    font-size: 16px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+
+    
+}
+
+.behance:hover
+{
+      margin-top: -40px;
+    margin-left: 140px;
+    font-family: 'Effra_Trial_lt';
+    font-size: 16px;
+    font-weight: 300;
+    color: white;
+    text-decoration: none;
+   
+}
+
+
+.folio
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 16px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-top: -40px;
+    
+    
+}
+
+
+.folio:hover
+{
+     font-family: 'Effra_Trial_lt';
+    font-size: 16px;
+    font-weight: 300;
+    color: white;
+    text-decoration: none;
+    margin-top: -40px; 
+}
+        
+    
+    .spacern {
+        display: none;
+    }   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+     .laurakate
+{
+    
+    display: none;
+}
+
+.laurakate:hover
+{
+   
+    display: none;
+}
+
+.storyteller
+
+{
+
+    display: none;
+}
+
+
+
+
+
+.description
+
+{
+    
+    display: none;
+}
+
+.hmpgtype {
+    
+ 
+    display: none;
+
+}
+  
+    
+    
+ .aa {
+    
+   display: none;
+}
+
+
+
+
+
+ .typeface
+{
+    font-family: 'Effra_Trial_Lt';
+    font-size: 34px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+/*
+    margin-top: 30px;
+    margin-left: 55px;
+  
+*/
+    text-decoration-line: none;
+    text-decoration-line: none;
+    z-index: -100;
+    margin-left: 10px;
+}
+typefacea
+{
+    font-family: 'Effra_Trial_Lt';
+    font-size: 80px;
+    font-weight: 300;
+    color: blue;
+    text-decoration: none;
+/*
+    margin-top: 30px;
+    margin-left: 55px;
+  
+*/
+    text-decoration-line: none;
+    text-decoration-line: none;
+    z-index: -100;
+}
+
+.typeface:hover
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 34px;
+    font-weight: 300;
+    color: white;
+    text-decoration: none;
+/*
+    margin-top: 30px;
+    margin-left: 51px;
+*/
+    text-decoration-line: none;
+}
+
+
+
+
+.typefacesmli
+{
+    font-family:'Effra_Trial_ltIt';
+    font-size: 16px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+    margin-left: 10px;
+    
+}
+
+.world
+{
+    font-family: 'Effra_Trial_Lt';
+    font-size: 34px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    margin-left: 10px;
+   
+}
+.world:hover
+{
+    font-family: 'Effra_Trial_lt';
+    font-size: 34px;
+    font-weight: 300;
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+    
+}
+
+
+
+.worldsmli
+{
+    font-family: 'Effra_Trial_Ltit';
+    font-size: 16px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+    margin-left: 10px;
+}
+ 
+.capitala {
+     font-family: 'Effra_Trial_bd';
+    font-size: 34px;
+    color: black;
+    margin-left:10px;
+     z-index: -100;
+    margin-bottom: 10px;
+    
+    
+
+}
+.gaps {
+    margin-top:40px;
+}
+    
+    .spacee {
+        margin-top: -100px;
+    }
+    
+    
+    
+     .capitaldot {
+     font-family: 'Effra_Trial_lt';
+    font-size: 20px;
+    color: black;
+    margin-left:10px;
+     z-index: -100;
+    margin-bottom: -10px;
+    
+    
+
+}
+    
+    
+.bb {
+    
+  display: none;
+}
+
+
+
+.blooming
+{
+   display: none;
+}
+
+.blooming:hover
+{
+   display: none;
+}
+
+.blossoms{
+   display: none;
+}
+
+.blossoms:hover{
+   display: none;
+}
+
+.bloomingsml
+{
+    display: none;
+}
+
+.bloomingsmli
+{
+    display: none;
+}
+
+.tt {
+    
+ display: none;
+}
+
+.mind
+{
+    display: none;
+}
+
+.mind:hover
+{
+    display: none;
+}
+
+.mindsml
+{
+   display: none;
+}
+
+
+.mindsmli
+{
+    display: none;
+}
+
+   
+    
+    
+    
+/* Dollystuff   */
+    
+  .ftype {
+   display: none;
+}
+  
+    
+    .zoom-area{
+        
+        display:none;
+    }  
+    
+    
+    
+    
+    
+    .mdolly{
+        margin-left: -120px;
+     
+        
+    }
+    
+  
+    }
+    
+    
+    .mdolly2{
+        margin-left: 0px;
+        height: auto;
+        width:400px;
+        margin-top: 50px;
+        
+     
+        
+    }
+    
+    .dollyt2{
+        margin-left: 0px;
+        margin-top: 50px;
+        margin-left: 37px;
+        
+     
+        
+    }
+    
+    
+       .aamd {
+    width: 25%;
+  height: auto;
+    margin-top: -320px;
+}
+   
+      
+    .dollyt{
+        margin-left: -55px;
+        margin-top: 80px;
+    
+    
+}
+  
+.typefacesml
+{
+  display: none;
+    }
+}
+
+
+.typefacesmli
+{
+    display: none;
+    }
+}
+ 
+    
+    
+    
+  .aa {
+    
+    width: 20%;
+  height: auto;
+    margin-top: -250px;
+}
+ 
+
+
+ .italic {
+    font-family: 'Effra_Trial_ltit';
+    font-size: 16px;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+    margin-top: 20px;
+    
+}  
+
+
+    
+/*
+  .world
+{
+   display: none;
+}
+.world:hover
+{
+  display: none; 
+}
+
+.worldsml
+{
+  display: none;
+}
+
+.worldsmli
+{
+    display:none;
+}
+ 
+    
+*/
+    
+ 
+
+
+
+    
+    
+   
+
+    
+    
+}
+
+
+
+
